@@ -23,10 +23,11 @@ Resultado del sorteo de los participantes
 
 ![image](https://github.com/user-attachments/assets/8c3f0765-4f62-4ab1-9a2b-0fc639352bd5)
 
-🛠️ Tecnologías Utilizadas
-HTML5: Estructura y contenido de la aplicación.
-CSS3: Estilos y diseño visual.
-JavaScript: Funcionalidad e interactividad.
+Tecnologia usada
+HTML5: Estructura y contenido de la aplicacion
+CSS3: Estilos y diseño visual
+JavaScript: Funcionalidades e interactividad
+
 
 
 
