@@ -28,6 +28,26 @@ HTML5: Estructura y contenido de la aplicacion
 CSS3: Estilos y diseño visual
 JavaScript: Funcionalidades e interactividad
 
+Pre-requsitos.
+
+No se requieren herramientas adicicionales, se pude ejecutar en los diferentes navegadores como Chrome,Firefox,Opera, Egde etc.
+
+Instalacion 
+
+1. Clona el repositorio en tu maquina local
+
+git clone https://github.com/Inteligencia2324/challenge-amigo-secreto_esp-main.git
+
+2. Ingresa al directorio del proyecto
+
+cd challenge-amigo-secreto_esp-main
+
+3. Ejecuta el archivo Index.html en tu navegador preferido.
+
+4. No se requiere ninguna instalacion adicional solo se debe ejecutar en tu navegador.
+
+Exitos.
+
 
 
 
